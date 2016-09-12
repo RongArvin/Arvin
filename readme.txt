@@ -4,3 +4,5 @@ Git has a mutable index called stage
 
 at feature1 branch, change the last line content with readme.txt
 at newBranch, add a new line content
+
+fix a bug at master
